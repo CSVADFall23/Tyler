@@ -31,8 +31,6 @@ fill(0);
 rect(width/2 - mouth_width/4 - 5, height/2 + face_height/4 - 20, mouth_width/4, 3);
 rect(width/2 + 5, height/2 + face_height/4 - 20, mouth_width/4, 5);
 
-// circles for nostrils
-
 // arcs for eyebrows
 noFill();
 arc(width/2 - 20, height/2 + 20, 50, 50, PI*3/8, PI*5/8);
